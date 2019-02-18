@@ -25,6 +25,6 @@ SQL database dump file included: consists of techtask database: consisting of 4 
  (for purpose of debugging -- question text and the answer text are logged.) 
 
  import the SQL dump file. Change the “DBconnect.php” credentials to access to your own database.
- For development purposes: Bitnami Wampstack 7,1.26 was used: https://bitnami.com/stack/wamp/installer
+ For development purposes: Bitnami Wampstack 5.42 was used.
  
  
