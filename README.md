@@ -2,9 +2,11 @@
 
 PHP driven online quiz application from requirements that specified:
 
+________________________________________________________________________________________________________________________________________
 1. index page
 2. A  quiz view
 3. User Results
+_________________________________________________________________________________________________________________________________________
 
 included:
 
@@ -23,4 +25,6 @@ SQL database dump file included: consists of techtask database: consisting of 4 
  (for purpose of debugging -- question text and the answer text are logged.) 
 
  import the SQL dump file. Change the “DBconnect.php” credentials to access to your own database.
- For development purposes: 
+ For development purposes: Bitnami Wampstack 7,1.26 was used: https://bitnami.com/stack/wamp/installer
+ 
+ 
